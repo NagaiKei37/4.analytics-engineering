@@ -1,0 +1,1 @@
+{{ get_vendor_data() }}
